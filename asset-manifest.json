@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.1822cd47.css",
-    "main.js": "/repository-name/static/js/main.466ef8ab.js",
-    "static/js/787.be73f74f.chunk.js": "/repository-name/static/js/787.be73f74f.chunk.js",
-    "static/media/check.svg": "/repository-name/static/media/check.1b7256e8b779cbd0e1163f287495170f.svg",
-    "index.html": "/repository-name/index.html",
-    "static/media/delete.svg": "/repository-name/static/media/delete.80754fefcb5ea3389b537df3534980c5.svg",
-    "main.1822cd47.css.map": "/repository-name/static/css/main.1822cd47.css.map",
-    "main.466ef8ab.js.map": "/repository-name/static/js/main.466ef8ab.js.map",
-    "787.be73f74f.chunk.js.map": "/repository-name/static/js/787.be73f74f.chunk.js.map"
+    "main.css": "/new-project/static/css/main.1822cd47.css",
+    "main.js": "/new-project/static/js/main.b2ea039c.js",
+    "static/js/787.be73f74f.chunk.js": "/new-project/static/js/787.be73f74f.chunk.js",
+    "static/media/check.svg": "/new-project/static/media/check.1b7256e8b779cbd0e1163f287495170f.svg",
+    "index.html": "/new-project/index.html",
+    "static/media/delete.svg": "/new-project/static/media/delete.80754fefcb5ea3389b537df3534980c5.svg",
+    "main.1822cd47.css.map": "/new-project/static/css/main.1822cd47.css.map",
+    "main.b2ea039c.js.map": "/new-project/static/js/main.b2ea039c.js.map",
+    "787.be73f74f.chunk.js.map": "/new-project/static/js/787.be73f74f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1822cd47.css",
-    "static/js/main.466ef8ab.js"
+    "static/js/main.b2ea039c.js"
   ]
 }
